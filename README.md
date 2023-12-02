@@ -6,7 +6,7 @@
 
 1.Presentation Layer (React)\
 2.Business Logic Layer (Node Js)\
-3.Data Access Layer (MongoDB)\
+3.Data Access Layer (MongoDB)
 
 ### `Create Node Module (circle.js)`
 const area = (r) => 3.1416 * r * r;\
@@ -14,7 +14,7 @@ module.exports.area = area;
 
 ## `Export Modiule(app.js) `
 const circle = require('./circle');\
-const circleValueCalculation = circle.area(x); // x => value\
+const circleValueCalculation = circle.area(x); // x => value
 
 **Check File System Module in index.js **
 

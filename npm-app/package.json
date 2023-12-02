@@ -1,0 +1,15 @@
+{
+  "name": "npm-app",
+  "version": "1.0.0",
+  "description": "Node package initializing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^4.0.14",
+    "react": "^18.2.0"
+  }
+}
